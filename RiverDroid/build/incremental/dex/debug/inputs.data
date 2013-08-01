@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Program Files\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1374946030089 364 4d2972ce4a048f4ad34650ad0b95b161763ec458 C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\R$attr.class
+1374946030164 361 6c050912b634b02197f2949cb9a14173c35e7333 C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\BuildConfig.class
+1374946030143 412 9aebc3168f34b67d9fb005ffdecd2bee67326fea C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\R$menu.class
+1374946030096 431 22b9b0d97303a44e5b5335567c754fefc9b01787 C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\R$drawable.class
+1374946030149 455 fa03b970e394dc1509a4de12173311c1fbf01753 C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\R$style.class
+1374946030098 417 69295be5971ec5b6a2e89537028b3caa50137806 C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\R$id.class
+1374946030092 485 ad0be81a2c5f4b516f3b7fee782a196e6ae6c4af C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\R$dimen.class
+1374946030084 833 7b975f5b41319990a1457746df9d122aa417bf36 C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\MainActivity.class
+1374946030146 496 d84102595f8f4035acb0cb3c79e2b951e36bd5f6 C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\R$string.class
+1374946030154 757 26b020938a629331fda088504dba75ca32c83ae1 C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\R.class
+1374946030115 427 db5a784ad6c6fe670bf7648480e72ba4929b6c96 C:\Users\familia\AndroidStudioProjects\RiverDroid\RiverDroid\build\classes\debug\br\com\bananila\riverdroid\R$layout.class
